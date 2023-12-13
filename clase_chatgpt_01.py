@@ -10,14 +10,12 @@ st.set_page_config(
 
 # Título y descripción
 
-st.image("../images/encabezado_curso_ai_02.jpg", width=800, use_column_width=True)
+st.image("/images/encabezado_curso_ai_02.jpg", width=800, use_column_width=True)
 
 left_co, cent_co,last_co = st.columns(3)
 with cent_co:
-    #st.image('https://www.smartdata.net/wp-content/uploads/2023/06/ChatGPT-Logo.jpg', width=500, use_column_width=False)
     st.image('https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/768px-ChatGPT_logo.svg.png', width=150, use_column_width=False)
-    #https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/768px-ChatGPT_logo.svg.png
-
+    
 st.title("Clase Gratuita: ChatGPT, explorando sus posibilidades")
 """
 ## **¡Descubre el Poder de las Peticiones para ChatGPT!**
@@ -85,9 +83,6 @@ Envía un correo a randradedev@gmail.com con la siguiente información
 - Poseer una cuenta de ChatGPT 3.5 o superior. 🔗 [Sitio de ChatGPT](https://chat.openai.com/)
 - Manejo de Google Meet.
 """
-# Logo de OpenAI
-#st.image("https://static.cdnlogo.com/logos/o/29/OpenAI-Logo_800x800.png", width=250, use_column_width=False)
-
 
 # Pie de página
 st.markdown("---")
