@@ -10,7 +10,7 @@ st.set_page_config(
 
 # Título y descripción
 
-st.image("/images/encabezado_curso_ai_02.jpg", width=800, use_column_width=True)
+st.image("images/encabezado_curso_ai_02.jpg", width=800, use_column_width=True)
 
 left_co, cent_co,last_co = st.columns(3)
 with cent_co:
