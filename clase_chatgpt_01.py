@@ -68,6 +68,8 @@ with col3:
 st.header("¡Únete a Nosotros!")
 st.write("Este curso de una hora te proporcionará insights sobre las bondades y limitaciones de ChatGPT en diversos contextos.")
 
+st.info("## ¡Te esperamos el **4 de enero de 2024 a las 18 horas**!")
+
 """
 Envía un correo a randradedev@gmail.com con la siguiente información
 
