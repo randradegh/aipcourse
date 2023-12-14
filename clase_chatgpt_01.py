@@ -36,12 +36,13 @@ En esta experiencia única, te sumergirás en el fascinante mundo de las peticio
 
 - ✔️ **Curso Gratuito de una Hora:** Sumérgete en una sesión interactiva y práctica que transformará tu enfoque hacia las peticiones para ChatGPT.
   
-- 🎓 **Ejemplos de peticiones:** Obtén un archivo con los ejemplos de las peticiones que usaremos en la clase gratuita.
+- 🎓 **Ejemplos de peticiones:** Obtendrás un archivo con los ejemplos de las peticiones que usaremos en la clase gratuita.
 
-- 💰 **Descuento:** Un descuento especial sobre un pŕoximo curso de ocho horas de duración.
+- 💰 **Descuento:** Un descuento especial sobre un pŕoximo curso de varias horas de duración.
 
-¡No pierdas la oportunidad de dominar el arte de las peticiones y desbloquear un mundo de posibilidades con ChatGPT! Regístrate ahora y prepárate para una experiencia educativa como ninguna otra.
+¡No pierdas la oportunidad de introducirte en el arte de las peticiones y desbloquear un mundo de posibilidades con ChatGPT! 
 
+**Regístrate ahora y prepárate para una experiencia educativa como ninguna otra.**
 
 
 ¡Te esperamos para descubrir juntos el futuro emocionante de las peticiones para ChatGPT!
@@ -73,13 +74,12 @@ Envía un correo a randradedev@gmail.com con la siguiente información
 - Nombre completo.
 - Grado de estudios.
 - Ocupación principal.
-- Razones para mejorar en la generación de peticiones (*prompts*).
+- ¿En qué áreas usarás tus conocimientos sobre las peticiones (*prompts*) a ChatGPT y otras AIG?
 - ¿Ya tienes una cuenta para usar ChatGPT 3.5?
 
 ## Requisitos
 - Conexión internet.
 - Conocimientos básicos de manejo de un navegador en Windows, Mac o Linux.
-
 - Poseer una cuenta de ChatGPT 3.5 o superior. 🔗 [Sitio de ChatGPT](https://chat.openai.com/)
 - Manejo de Google Meet.
 """
